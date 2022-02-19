@@ -1,0 +1,19 @@
+body{
+    background:conic-gradient(darkblue,white);
+    color:rgb(152, 124, 255);
+}
+.heading{
+    Width:80%;
+    font-size: 25px;
+    color:rgb(152, 124, 255);
+}
+
+#camera,#result{
+    width: 350px;
+    height:300px;
+    border:ridge 2px rgb(152, 124, 255);
+}
+
+.name_of_objects{
+    width:80%;
+}
